@@ -1,0 +1,1 @@
+from clean_folder import main as clean_folder

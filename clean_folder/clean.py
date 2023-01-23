@@ -92,11 +92,8 @@ def unpack_archives(path_to_archives, groups_of_format):
 
 
 def main():
-    if len(argv) != 2:
-        print('You must write path to folder to sort as argument!')
-        quit()
-    # path to folder from last argument cmd
-    path_folder_for_sort = sys.argv[1]
+    # path to current folder
+    path_folder_for_sort = os.getcwd()
     # ignore list with names of folders to be ignored
     ignore_list = ['images', 'video', 'documents', 'audio', 'archives']
 

@@ -1,9 +1,0 @@
-Metadata-Version: 2.1
-Name: clean-folder
-Version: 1.0.0
-Summary: This is a script that will parse the specified folder.
-Home-page: https://github.com/ArturMistiuk/Module_7
-Author: Artur Mistiuk
-Author-email: mistiuk.artur@gmail.com
-License: MIT
-License-File: LICENSE

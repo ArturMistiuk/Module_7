@@ -1,2 +1,0 @@
-[console_scripts]
-clean_folder = clean_folder.main_code.py:main
